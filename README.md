@@ -5,6 +5,7 @@
   -  🚀 Investment/Stock/Crypto Reinforment Learning Agents
   -  🎵 [Music](https://www.christos.app/spotify/) (Front End Developer Criticism Welcome)
   -  🕹️ OpenAI GYM
+  -  🧠 Brain Computer Interface + Learning to Learn
   -  👨‍🎓 or anything you're excited about... I am also interested in learning new things
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/christos-magganas/)
 
