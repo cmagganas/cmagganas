@@ -1,6 +1,8 @@
 # 👋 Hello World, I'm Christos - @cmagganas
 
-Welcome to my corner of the GitHub universe! I thrive at the intersection of AI, technology, and philanthropy, dedicating my expertise to solving real-world challenges through innovative solutions. My journey is one of continuous learning, sharing, and creating with a community that's just as passionate about making a difference as I am.
+Exploring the crossroads of AI, automation, and techno-philanthropy, I'm committed to crafting solutions for real-world challenges.
+
+Join me on a journey of innovation, learning, and community engagement.
 
 ## 🚀 About Me
 - 🧑🏻‍💻 I’m an **AI/ML Engineer & LLM Ops @ AI Makerspace**, turning ideas into impactful realities.
